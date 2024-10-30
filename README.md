@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a href="//imgur.com/a/KXbJ2Xd"></a>
+<a href="https://imgur.com/a/KXbJ2Xd"></a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
