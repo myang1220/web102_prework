@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Imgur Album](https://i.imgur.com/u0GXa7M.jpg)
+![Imgur Album](https://i.imgur.com/u0GXa7M.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
